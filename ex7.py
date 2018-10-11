@@ -9,6 +9,6 @@ r=0.04
 money_needed=total_cost*portion_deposit
 while(current_savings<money_needed):
     current_savings+=m_salary*portion_saved
-    current_savings=+current_savings*r/12
+    current_savings+=current_savings*r/12
     m+=1
 print(m)
