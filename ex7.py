@@ -1,9 +1,9 @@
 print("Enter your annual salary:")
-annual_salary=input()
+annual_salary=float(input())
 print("Enter the percent of your salary to save, as a decimal: ")
-portion_saved=input()
+portion_saved=float(input())
 print("Enter the cost of your dream home:")
-total_cost=input()
+total_cost=float(input())
 m=0
 portion_deposit=total_cost/10*2
 current_savings=0
