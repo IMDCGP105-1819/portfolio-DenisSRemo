@@ -13,7 +13,6 @@ while(current_savings<money_needed):
     current_savings+=current_savings*r/12
     if(m%6==0):
        annual_salary*=semi_annual_raise
-       print("RAISE")
     m+=1
    
 print(m-1)
