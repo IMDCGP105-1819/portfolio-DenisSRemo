@@ -1,4 +1,4 @@
-annual_salary=float(input("Enter your annual salary:"))
+annual_salary=float(input("Enter your annual salary: "))
 m=1
 current_savings=0
 portion_deposit=0.25
