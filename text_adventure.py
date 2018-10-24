@@ -1,14 +1,14 @@
 #creating the rooms
 room[1]=["sign"]
-r[1]="Entrance to the Castle of Sir Richard of Normandy"
+r[1]="gate"
 room[2]=["guard","arrow"]
 r[2]="garrison quarters"
 room[3]=[]
-r[3]="hallway"
+r[3]="inner courtyard"
 room[4]=["blade"]
 r[4]="war room"
 room[5]=[]
-r[5]="hallway"
+r[5]=""
 room[6]=["cross"]
 r[6]="pray room"
 room[7]=["hilt"]
